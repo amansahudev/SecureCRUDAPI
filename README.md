@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # StudentManagementAPI
-=======
+
 # SecureCRUDAPI
 
 **SecureCRUDAPI** is a fully functional and secure API with complete CRUD (Create, Read, Update, Delete) operations built using .NET. This project demonstrates secure handling of data and proper API architecture.

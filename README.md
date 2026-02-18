@@ -18,5 +18,5 @@
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/SecureCRUDAPI.git
+   git clone https://github.com/amansahudev/SecureCRUDAPI.git
 >>>>>>> 5dd09aa33bc263339447a0a08e1c6ad7acde8fee
